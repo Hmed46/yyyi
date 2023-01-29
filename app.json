@@ -13,27 +13,22 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "",
+            "value": "25035671",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "",
-            "required": true
-        },
-        "TERMUX": {
-            "description": "كود تيرمكس",
-            "value": "",
+            "value": "119255e90c454b0e70bc5d2c4b053c9c",
             "required": true
         },
         "TOKEN": {
             "description": "توكن البوت",
-            "value": "",
+            "value": "5664033397:AAEDLSzaPKM7YX3wZ_RP88iFcaAmoQfGldE",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "",
+            "value": "Sosodjsbot",
             "required": true
         }
     }
